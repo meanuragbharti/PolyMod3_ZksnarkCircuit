@@ -1,4 +1,4 @@
-# zardkat Circuit
+# Zardkat Circuit
 
 A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) template to generate zero-knowledge circuits, proofs, and solidity verifiers
 
@@ -105,4 +105,4 @@ npx hardhat newcircuit --name newcircuit
 > For development builds of groth16 circuits, we provide the --deterministic flag in order to use a NON-RANDOM and UNSECURE hardcoded entropy (0x000000 by default) which will allow you to more easily inspect and catch changes in your circuits. You can adjust this default beacon by setting the beacon property on a circuit's config in your hardhat.config.js file.
 
 ## Author
-
+Anurag Bharti
